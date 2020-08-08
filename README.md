@@ -1,6 +1,6 @@
-# Khasi-English
-Translation service
-**Objective**: To create an open source translator for Khasi to English language. 
+# Khasi-English Translator
+Open Source, not for profit, translation service
+**Objective**: To create an open source translator for Khasi language to English language. 
 **About Khasi Language**: https://en.wikipedia.org/wiki/Khasi_language - Spoken mainly in the Meghalaya state of India by about 1.6 million people.
 Currently available services: Not aware of any
 Anticipated fields for contributon (To be added):
