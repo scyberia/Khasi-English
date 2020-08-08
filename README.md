@@ -1,0 +1,2 @@
+# Khasi-English
+Translation service
